@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Full Stack
 - 🌱 I’m currently studyng Computer engineering at State University of Feira de Santana - UEFS, Brazil.
 - 📫 How to reach me: danrleiaraujo@gmail.com
-- 😄 Pronouns: "ele"/"dele"
+- 😄 Pronouns: "he" / "his" / "him"
 
 <div align="center">
   <a href="https://github.com/danrleiaraujo">
