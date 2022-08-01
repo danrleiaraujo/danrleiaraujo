@@ -30,6 +30,6 @@
   <a href = "mailto:danrleiaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/danrlei-araujo-765b931b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/danrleiaraujo/danrleiaraujo/blob/main/.github/workflows/snake.yml)
+  ![Snake animation](https://github.com/danrleiaraujo/danrleiaraujo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
